@@ -1,6 +1,5 @@
 ## 🚀 I'm a Full Stack Developer. Currently living in Natal, Rio Grande do Norte, Brazil. I have good experience in web sites, systems, mobile applications and ecommerces. Always working on projects looking for innovations through technologies.
 
-
 ## ☕ Technologies: 
 - Back-end: PHP | Node.js | Laravel | Codeigniter | Yii | Lumen.
 - Front-end: Javascript | Typescript | React | Angular 6+ | Vue.js | jQuery | HTML | XSL | CSS | Sass | Twig | Bootstrap.
@@ -11,9 +10,7 @@
 - CMS: BoltCMS | OctoberCMS.
 - Tests: PHPUnit | Jest | Supertest.
 
-
-## ✨ SCRUM | Kanban | Design Patterns | SOLID | Clean Code | API | APIRestful
-
+### ✨ SCRUM | Kanban | Design Patterns | SOLID | Clean Code | API | APIRestful
 
 ## 📩 Contact
 - Email: paulofelipemartins@gmail.com
