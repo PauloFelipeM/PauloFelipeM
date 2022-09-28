@@ -7,7 +7,7 @@
 - Front-end: Javascript | Typescript | React | Angular 6+ | Vue.js | jQuery | HTML | XSL | CSS | Sass | Twig | Bootstrap.
 - Mobile: React Native | Ionic 4.
 - Database: MySQL | SQLite | PostGreSQL | SQL Server | Redis.
-- DevOps: GIT | CI&CD | Docker | Digital Ocean | AWS (EC2, S3) | Azure | Azure | GitLab | GitHub
+- DevOps: GIT | CI&CD | Docker | DigitalOcean | AWS (EC2, S3) | Azure | GitLab | GitHub
 - Ecommerce's: VTEX | Tray Corp.
 - CMS: BoltCMS | OctoberCMS.
 - Tests: PHPUnit | Jest | Supertest.
