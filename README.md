@@ -3,7 +3,7 @@
 ### ✨ SCRUM | Kanban | Design Patterns | SOLID | Clean Code | API | APIRestful
 
 ### ☕ Technologies: 
-- Back-end: PHP | Node.js | Laravel | Codeigniter | Yii | Lumen.
+- Back-end: PHP | Node.js | NestJS | Laravel | Codeigniter | Yii | Lumen.
 - Front-end: Javascript | Typescript | React | Angular 6+ | Vue.js | jQuery | HTML | XSL | CSS | Sass | Twig | Bootstrap.
 - Mobile: React Native | Ionic 4.
 - Database: MySQL | SQLite | PostGreSQL | SQL Server | Redis.
