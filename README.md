@@ -4,7 +4,7 @@
 
 ### ☕ Technologies: 
 - Back-end: PHP | Node.js | NestJS | Laravel | Codeigniter | Yii | Lumen.
-- Front-end: Javascript | Typescript | React | Angular 6+ | Vue.js | jQuery | HTML | XSL | CSS | Sass | Twig | Bootstrap.
+- Front-end: Javascript | Typescript | React | Angular 6+ | Vue.js | jQuery | HTML | XSL | CSS | Sass | Twig | Bootstrap | Tailwind CSS
 - Mobile: React Native | Ionic 4.
 - Database: MySQL | SQLite | PostGreSQL | SQL Server | Redis.
 - DevOps: GIT | CI&CD | Docker | DigitalOcean | AWS (EC2, S3) | Azure | GitLab | GitHub
