@@ -3,11 +3,11 @@
 ### ✨ SCRUM | Kanban | Design Patterns | SOLID | Clean Code | API | APIRestful
 
 ### ☕ Technologies: 
-- Back-end: PHP | Node.js | NestJS | Laravel | Codeigniter | Yii | Lumen.
+- Back-end: PHP | Node.js | Python | Laravel | Codeigniter | Yii | NestJS | Lumen | Flask.
 - Front-end: Javascript | Typescript | React | Angular 6+ | Vue.js | jQuery | HTML | XSL | CSS | Sass | Twig | Bootstrap | Tailwind CSS
 - Mobile: React Native | Ionic 4.
 - Database: MySQL | SQLite | PostGreSQL | SQL Server | Redis.
-- DevOps: GIT | CI&CD | Docker | DigitalOcean | AWS (EC2, S3) | Azure | GitLab | GitHub
+- DevOps: GIT | CI&CD | Docker | DigitalOcean | AWS (EC2, S3) | Azure | GitLab | GitHub | GitHub Actions
 - Ecommerce's: VTEX | Tray Corp.
 - CMS: BoltCMS | OctoberCMS.
 - Tests: PHPUnit | Jest | Supertest.
