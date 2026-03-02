@@ -1,22 +1,36 @@
-### 🚀 I'm a Full Stack Developer. Currently living in Natal, Rio Grande do Norte, Brazil. I have good experience in web sites, systems, mobile applications and ecommerces. Always working on projects looking for innovations through technologies.
+🚀 Senior Backend Engineer with 8+ years building scalable, high-performance systems.
 
-### ✨ SCRUM | Kanban | Design Patterns | SOLID | Clean Code | API | APIRestful
+I specialize in API architecture, cloud infrastructure, and backend systems that handle real-world scale. While I have full-stack capabilities, my expertise and passion lie in solving complex backend challenges.
 
-### ☕ Technologies: 
-- Back-end: PHP | Node.js | Python | Laravel | Codeigniter | Yii | NestJS | Lumen | Flask.
-- Front-end: Javascript | Typescript | React | Angular 6+ | Vue.js | jQuery | HTML | XSL | CSS | Sass | Twig | Bootstrap | Tailwind CSS
-- Mobile: React Native | Ionic 4.
-- Database: MySQL | SQLite | PostGreSQL | SQL Server | Redis.
-- DevOps: GIT | CI&CD | Docker | DigitalOcean | AWS (EC2, S3) | Azure | GitLab | GitHub | GitHub Actions
-- Ecommerce's: VTEX | Tray Corp.
-- CMS: BoltCMS | OctoberCMS.
-- Tests: PHPUnit | Jest | Supertest.
+💡 BACKEND EXPERTISE:
+• Architected REST APIs processing 10,000+ daily transactions with 99.9% uptime
+• Built real-time systems handling thousands of concurrent WebSocket connections
+• Reduced deployment time from hours to minutes with Docker + CI/CD pipelines
+• Improved API performance by 70% through caching, optimization, and database tuning
 
-### 📩 Contact
-- Email: paulofelipemartins@gmail.com
-- GitHub: https://github.com/PauloFelipeM
-- Website: https://paulofelipem.github.io/portfolio/
-- Phone/Whatsapp: +55 (84) 99600-1117
+🛠 CORE STACK:
+Backend: PHP (Laravel), Node.js (NestJS, Express, Fastify), Python (FastAPI, Flask)
+Frontend: React, Vue.js, Angular 2+, TypeScript
+Databases: PostgreSQL, MySQL, Redis
+DevOps & Cloud: Docker, AWS, Azure, DigitalOcean, GitHub Actions, GitLab CI
+APIs & Integration: REST, WebSockets, Message Queues, Microservices
+Testing: PHPUnit, Jest, Vitest, Supertest, TDD
+Automation & AI: N8N, Langchain, Agents, Claude Code, GPT
+
+🎯 FOCUS AREAS:
+• Scalable API architecture
+• Real-time systems & event-driven design
+• Performance optimization & caching strategies
+• Cloud infrastructure & deployment automation
+
+🧠 APPROACH:
+I write clean, maintainable code following SOLID principles and design patterns. Experienced with SCRUM/Kanban, TDD, and building systems that scale.
+
+🌍 Based in Brazil • Open to remote opportunities worldwide
+
+📩 CONTACT:
+Email: paulofelipemartins@gmail.com
+WhatsApp: +55 (84) 99600-1117
 
 <!---
 PauloFelipeM/PauloFelipeM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
