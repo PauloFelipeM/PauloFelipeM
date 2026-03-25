@@ -1,38 +1,36 @@
-🚀 Senior Backend Engineer with 8+ years building scalable, high-performance systems.
+🚀 Software Engineer e Full Stack Developer com 8+ anos desenvolvendo sistemas escaláveis e de alta performance.
 
-I specialize in API architecture, cloud infrastructure, and backend systems that handle real-world scale. While I have full-stack capabilities, my expertise and passion lie in solving complex backend challenges.
+Sou especialista em arquitetura de APIs, sistemas backend e infraestrutura em nuvem que operam em escala real. Embora tenha capacidade full-stack, minha expertise e paixão estão em resolver desafios complexos de backend.
 
-💡 BACKEND EXPERTISE:
-• Architected REST APIs processing 10,000+ daily transactions with 99.9% uptime
-• Built real-time systems handling thousands of concurrent WebSocket connections
-• Reduced deployment time from hours to minutes with Docker + CI/CD pipelines
-• Improved API performance by 70% through caching, optimization, and database tuning
+💡 O QUE JÁ CONSTRUÍ:
+• Arquitetei REST APIs
+• Desenvolvi sistemas real-time usando WebSocket simultâneas
+• Reduzi o tempo de deploy com Docker + pipelines CI/CD
+• Melhorei a performance de APIs através de caching, otimização e tuning de banco
+• Criei features com IA usando LangChain + RAG, integrando LLMs em sistemas backend em produção
 
-🛠 CORE STACK:
-Backend: PHP (Laravel), Node.js (NestJS, Express, Fastify), Python (FastAPI, Flask)
-Frontend: React, Vue.js, Angular 2+, TypeScript
-Databases: PostgreSQL, MySQL, Redis
-DevOps & Cloud: Docker, AWS, Azure, DigitalOcean, GitHub Actions, GitLab CI
-APIs & Integration: REST, WebSockets, Message Queues, Microservices
-Testing: PHPUnit, Jest, Vitest, Supertest, TDD
-Automation & AI: N8N, Langchain, Agents, Claude Code, GPT
+🛠 STACK PRINCIPAL:
+Backend: PHP (Laravel) • Node.js (NestJS, Fastify, Express)
+Frontend: React • Vue.js • TypeScript • Angular
+Bancos de Dados: PostgreSQL • MySQL • Redis
+DevOps & Cloud: Docker • AWS • GitHub Actions • CI/CD
+Arquitetura: REST APIs • WebSockets • Microsserviços • Event-Driven • DDD • Clean Architecture
+Integração com IA: LangChain • RAG • Agents • OpenAI • Claude Code
+Automação: N8N
+Testes: Jest • Vitest • PHPUnit • TDD
+GIT: GIT Flow • Github • GitLab • Bitbucket
 
-🎯 FOCUS AREAS:
-• Scalable API architecture
-• Real-time systems & event-driven design
-• Performance optimization & caching strategies
-• Cloud infrastructure & deployment automation
+🎯 ÁREAS DE FOCO:
+• Arquitetura de APIs escaláveis (Clean Architecture + DDD)
+• Sistemas real-time & design event-driven
+• Integração de IA em sistemas backend
+• Otimização de performance & infraestrutura em nuvem
 
-🧠 APPROACH:
-I write clean, maintainable code following SOLID principles and design patterns. Experienced with SCRUM/Kanban, TDD, and building systems that scale.
+🧠 ABORDAGEM:
+Escrevo código limpo e de fácil manutenção seguindo princípios SOLID e design patterns. Experiente com SCRUM/Kanban, TDD e construção de sistemas que escalam.
 
-🌍 Based in Brazil • Open to remote opportunities worldwide
+🌍 Brasil • Aberto a oportunidades remotas no mundo todo
 
-📩 CONTACT:
+📩 CONTATO:
 Email: paulofelipemartins@gmail.com
-WhatsApp: +55 (84) 99600-1117
-
-<!---
-PauloFelipeM/PauloFelipeM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+GitHub: github.com/PauloFelipeM
