@@ -1,36 +1,36 @@
-🚀 Software Engineer e Full Stack Developer com 8+ anos desenvolvendo sistemas escaláveis e de alta performance.
+🚀 Software Engineer & Full Stack Developer with 8+ years building scalable, high-performance systems.
 
-Sou especialista em arquitetura de APIs, sistemas backend e infraestrutura em nuvem que operam em escala real. Embora tenha capacidade full-stack, minha expertise e paixão estão em resolver desafios complexos de backend.
+I specialize in API architecture, backend systems, and cloud infrastructure that handle real-world scale. While I have full-stack capabilities, my expertise and passion lie in solving complex backend challenges.
 
-💡 O QUE JÁ CONSTRUÍ:
-• Arquitetei REST APIs
-• Desenvolvi sistemas real-time usando WebSocket simultâneas
-• Reduzi o tempo de deploy com Docker + pipelines CI/CD
-• Melhorei a performance de APIs através de caching, otimização e tuning de banco
-• Criei features com IA usando LangChain + RAG, integrando LLMs em sistemas backend em produção
+💡 WHAT I'VE BUILT:
+• Architected REST APIs
+• Built real-time systems using WebSocket connections
+• Reduced deployment time with Docker + CI/CD pipelines
+• Improved API performance through caching, optimization, and database tuning
+• AI-powered features using LangChain + RAG, integrating LLMs into production backend systems
 
-🛠 STACK PRINCIPAL:
+🛠 CORE STACK:
 Backend: PHP (Laravel) • Node.js (NestJS, Fastify, Express)
 Frontend: React • Vue.js • TypeScript • Angular
-Bancos de Dados: PostgreSQL • MySQL • Redis
+Databases: PostgreSQL • MySQL • Redis
 DevOps & Cloud: Docker • AWS • GitHub Actions • CI/CD
-Arquitetura: REST APIs • WebSockets • Microsserviços • Event-Driven • DDD • Clean Architecture
-Integração com IA: LangChain • RAG • Agents • OpenAI • Claude Code
-Automação: N8N
-Testes: Jest • Vitest • PHPUnit • TDD
+Architecture: REST APIs • WebSockets • Microservices • Event-Driven • DDD • Clean Architecture
+AI Integration: LangChain • RAG • Agents • OpenAI • Claude Code
+Automation: N8N
+Testing: Jest • Vitest • PHPUnit • TDD
 GIT: GIT Flow • Github • GitLab • Bitbucket
 
-🎯 ÁREAS DE FOCO:
-• Arquitetura de APIs escaláveis (Clean Architecture + DDD)
-• Sistemas real-time & design event-driven
-• Integração de IA em sistemas backend
-• Otimização de performance & infraestrutura em nuvem
+🎯 FOCUS AREAS:
+• Scalable API architecture (Clean Architecture + DDD)
+• Real-time systems & event-driven design
+• AI integration in backend systems
+• Performance optimization & cloud infrastructure
 
-🧠 ABORDAGEM:
-Escrevo código limpo e de fácil manutenção seguindo princípios SOLID e design patterns. Experiente com SCRUM/Kanban, TDD e construção de sistemas que escalam.
+🧠 APPROACH:
+I write clean, maintainable code following SOLID principles and design patterns. Experienced with SCRUM/Kanban, TDD, and building systems that scale.
 
-🌍 Brasil • Aberto a oportunidades remotas no mundo todo
+🌍 Based in Brazil • Open to remote opportunities worldwide
 
-📩 CONTATO:
+📩 CONTACT:
 Email: paulofelipemartins@gmail.com
 GitHub: github.com/PauloFelipeM
